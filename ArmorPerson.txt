@@ -1,0 +1,5 @@
+[1;31mLeather[0m Helmet
+[1;31mLeather[0m ChestPlate
+[1;31mLeather[0m Leggings
+[1;31mLeather[0m Boots
+[1;31mLeather[0m Magick Stick

@@ -1,0 +1,10 @@
+
+
+Statics:
+↠ Health: 430
+↠ Armor: 15
+↠ Damage: 50
+↠ Mana: 410
+↠ Stamina: 375
+↠ Potision: 80%
+↠ [31mBag: [0m

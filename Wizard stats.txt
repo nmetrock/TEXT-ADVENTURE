@@ -1,0 +1,5 @@
+↠ Health: 450
+↠ Armor: 15
+↠ Damage: 50
+↠ Mana: 400
+↠ Potision: 80%

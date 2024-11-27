@@ -1,0 +1,17 @@
+Ranger Native
+1#You start of with a Leather Package.
+A little bit of Extra Mana and Health
+will be added in your skills aswell.
+#
+
+Occulist Native
+2#You start of with a Leather Package.
+A little bit of Extra Damage will
+be added in your skills aswell.
+#
+
+Defender Native
+3#You start of with a Leather Package.
+A little bit of Extra Armour and Health
+will be added in your skills aswell.
+#

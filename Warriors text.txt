@@ -1,0 +1,5 @@
+Warriors tribe is the tribe with the most
+health points and armour, they've been 
+building armour for themselves a long 
+time ago, they know well how to protect
+themselves.

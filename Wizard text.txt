@@ -1,0 +1,18 @@
+Wizards is the tribe with the most MANA,
+based on their magic skills they've developed
+many potions to help them defeat their enemies.
+There are three types of Wizards: Black Magic,
+Grey Magic, White Magic. 
+
+Black Magic Wizards 
+Start with a little bit more damage than others,
+they focus more on their damage later on.
+
+Grey Magic Wizards
+Start with a little bit more stamina and mana than 
+others, they focus more on their well-being later on.
+
+White Magic Wizards
+Start with a little bit more health and mana than
+others, they focus more on their health points 
+later on and mana.

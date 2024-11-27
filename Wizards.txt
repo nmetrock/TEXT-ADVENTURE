@@ -1,0 +1,18 @@
+Black Wizard
+1#You start of with a Leather Package.
+A little bit of Extra Damage  
+will be added in your skills.
+#
+
+Grey Wizard
+2#You start of with a Leather Package.
+A little bit of Extra Mana and Health
+will be added in your skills aswell.
+#
+
+White Wizard
+3#You start of with a Leather Package.
+A little bit of Extra Armour and 
+Health will be added in your skills
+aswell.
+#
